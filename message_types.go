@@ -26,7 +26,7 @@ type MessageMetadata struct {
 
 	Flags          MessageFlag
 	Time           int64
-	ExpirationTime int64
+	ExpirationTime *int64
 	Size           int
 	Unread         Bool
 	IsReplied      Bool

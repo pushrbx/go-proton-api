@@ -7,9 +7,9 @@ import (
 	"net"
 	"os"
 
-	"github.com/ProtonMail/go-proton-api"
-	"github.com/ProtonMail/go-proton-api/server"
-	"github.com/ProtonMail/go-proton-api/server/proto"
+	"github.com/pushrbx/go-proton-api"
+	"github.com/pushrbx/go-proton-api/server"
+	"github.com/pushrbx/go-proton-api/server/proto"
 	"github.com/urfave/cli/v2"
 	"google.golang.org/grpc"
 )

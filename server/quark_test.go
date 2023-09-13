@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ProtonMail/go-proton-api"
+	"github.com/pushrbx/go-proton-api"
 	"github.com/stretchr/testify/require"
 )
 

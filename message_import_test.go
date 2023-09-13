@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ProtonMail/go-proton-api"
+	"github.com/pushrbx/go-proton-api"
 )
 
 func Test_chunkSized(t *testing.T) {

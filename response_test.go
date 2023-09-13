@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/ProtonMail/go-proton-api"
-	"github.com/ProtonMail/go-proton-api/server"
+	"github.com/pushrbx/go-proton-api"
+	"github.com/pushrbx/go-proton-api/server"
 	"github.com/stretchr/testify/require"
 )
 

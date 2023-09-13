@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ProtonMail/go-proton-api"
+	"github.com/pushrbx/go-proton-api"
 )
 
 func ExampleManager_NewClient() {

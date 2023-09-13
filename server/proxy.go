@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/ProtonMail/go-proton-api"
 	"github.com/gin-gonic/gin"
+	"github.com/pushrbx/go-proton-api"
 )
 
 func newProxy(proxyOrigin, base, path string, transport http.RoundTripper) http.HandlerFunc {

@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/ProtonMail/go-proton-api"
-	"github.com/ProtonMail/go-proton-api/server/backend"
 	"github.com/gin-gonic/gin"
+	"github.com/pushrbx/go-proton-api"
+	"github.com/pushrbx/go-proton-api/server/backend"
 )
 
 type serverBuilder struct {

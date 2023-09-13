@@ -1,6 +1,6 @@
 module github.com/pushrbx/go-proton-api
 
-go 1.18
+go 1.21
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.0
